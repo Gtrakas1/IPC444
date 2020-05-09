@@ -1,0 +1,6 @@
+﻿  Cstring.cpp
+  main.cpp
+  process.cpp
+  Generating Code...
+C:\Users\gtrak\source\repos\Lab1_OOP345\Lab1_OOP345\main.cpp(12,6): warning C4101:  'i': unreferenced local variable
+  Lab1_OOP345.vcxproj -> C:\Users\gtrak\source\repos\Lab1_OOP345\x64\Debug\Lab1_OOP345.exe

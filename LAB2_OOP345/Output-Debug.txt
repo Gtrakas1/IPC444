@@ -1,0 +1,11 @@
+﻿'LAB2_OOP345.exe' (Win32): Loaded 'C:\Users\gtrak\source\repos\LAB2_OOP345\Debug\LAB2_OOP345.exe'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Program Files\AVAST Software\Avast\aswhookx.dll'. Cannot find or open the PDB file.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'LAB2_OOP345.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'LAB2_OOP345.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+The program '[7160] LAB2_OOP345.exe' has exited with code 0 (0x0).
