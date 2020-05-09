@@ -1,0 +1,8 @@
+﻿  w5.cpp
+c:\users\gtrak\source\repos\lab5_oop345\lab5_oop345\grades.h(18): warning C4018: '<': signed/unsigned mismatch
+  c:\users\gtrak\source\repos\lab5_oop345\lab5_oop345\w5.cpp(76): note: see reference to function template instantiation 'void sict::Grades::displayGrades<main::<lambda_1e1157fec140fbb9e344c628c68a4b6f>>(std::ostream &,T)' being compiled
+          with
+          [
+              T=main::<lambda_1e1157fec140fbb9e344c628c68a4b6f>
+          ]
+  LAB5_OOP345.vcxproj -> C:\Users\gtrak\source\repos\LAB5_OOP345\Debug\LAB5_OOP345.exe
